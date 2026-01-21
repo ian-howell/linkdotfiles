@@ -1,4 +1,4 @@
-module linkdotfiles
+module github.com/ian-howell/linkdotfiles
 
 go 1.23.2
 
